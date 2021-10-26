@@ -1,0 +1,26 @@
+.partners__container {
+    /* height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+    padding-top: 50px;
+    height: calc(100vh - 428px);
+}
+
+.partners__title {
+    font-size: 20px;    
+    font-weight: 700;
+    margin-bottom: 70px;
+}
+
+.partners__description {
+    display: block;
+    text-align: center;
+    font-style: italic;
+}
+
+/* @media (max-width: 480px) {
+    .menu-nav__container {
+        justify-content: normal;
+    }
+} */
